@@ -21,3 +21,6 @@ sudo systemctl enable vncserver-x11-serviced.service
 sudo vnclicensewiz
 ```
 
+DONE.
+
+File from /usr/lib/aarch64-linux-gnu/ (on ubuntu22.04 raspberry4 8G) 
