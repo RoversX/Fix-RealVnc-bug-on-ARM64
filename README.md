@@ -21,11 +21,19 @@ sudo systemctl enable vncserver-x11-serviced.service
 sudo vnclicensewiz
 ```
 
-DONE.
+## DONE.
 
 File from /usr/lib/aarch64-linux-gnu/ (on ubuntu22.04 raspberry4 8G) 
 
 Reference：
-[1](https://github.com/azalinux/realvnc-server-aarch64-manjaro/issues/6)
-[2](https://forums.raspberrypi.com/viewtopic.php?t=288769)
-[3](https://www.youtube.com/watch?v=qxey8eKi9bE)
+<br>
+<code>[1](https://github.com/azalinux/realvnc-server-aarch64-manjaro/issues/6)</code>
+<br>
+<code>[2](https://forums.raspberrypi.com/viewtopic.php?t=288769)</code>
+<br>
+<code>[3](https://www.youtube.com/watch?v=qxey8eKi9bE)</code>
+
+
+
+
+
