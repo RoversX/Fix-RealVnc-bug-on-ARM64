@@ -24,3 +24,8 @@ sudo vnclicensewiz
 DONE.
 
 File from /usr/lib/aarch64-linux-gnu/ (on ubuntu22.04 raspberry4 8G) 
+
+Reference：
+[1](https://github.com/azalinux/realvnc-server-aarch64-manjaro/issues/6)
+[2](https://forums.raspberrypi.com/viewtopic.php?t=288769)
+[3](https://www.youtube.com/watch?v=qxey8eKi9bE)
